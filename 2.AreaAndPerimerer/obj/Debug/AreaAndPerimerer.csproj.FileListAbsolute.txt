@@ -1,0 +1,8 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\AreaAndPerimerer\bin\Debug\AreaAndPerimerer.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\AreaAndPerimerer\bin\Debug\AreaAndPerimerer.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\AreaAndPerimerer\bin\Debug\AreaAndPerimerer.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\AreaAndPerimerer\obj\Debug\AreaAndPerimerer.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\AreaAndPerimerer\obj\Debug\AreaAndPerimerer.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\4.ConsoleInputOutput\4.ConsoleInputOutput\2.AreaAndPerimerer\bin\Debug\AreaAndPerimerer.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\4.ConsoleInputOutput\4.ConsoleInputOutput\2.AreaAndPerimerer\obj\Debug\AreaAndPerimerer.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\4.ConsoleInputOutput\4.ConsoleInputOutput\2.AreaAndPerimerer\obj\Debug\AreaAndPerimerer.pdb

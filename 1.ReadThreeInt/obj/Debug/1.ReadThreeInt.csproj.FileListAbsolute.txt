@@ -1,0 +1,3 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\4.ConsoleInputOutput\4.ConsoleInputOutput\1.ReadThreeInt\bin\Debug\ReadThreeInt.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\4.ConsoleInputOutput\4.ConsoleInputOutput\1.ReadThreeInt\obj\Debug\ReadThreeInt.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\4.ConsoleInputOutput\4.ConsoleInputOutput\1.ReadThreeInt\obj\Debug\ReadThreeInt.pdb

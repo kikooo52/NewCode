@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\usiness\bin\Debug\usiness.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\usiness\bin\Debug\usiness.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\usiness\bin\Debug\usiness.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\usiness\obj\Debug\FirmInfo.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\usiness\obj\Debug\usiness.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\usiness\obj\Debug\usiness.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\4.ConsoleInputOutput\4.ConsoleInputOutput\3.Firm\bin\Debug\usiness.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\4.ConsoleInputOutput\4.ConsoleInputOutput\3.Firm\obj\Debug\usiness.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\4.ConsoleInputOutput\4.ConsoleInputOutput\3.Firm\obj\Debug\usiness.pdb
